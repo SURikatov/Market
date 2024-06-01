@@ -1,3 +1,6 @@
+# Кадочников, группа 6260
+https://github.com/SURikatov/HotDrink
+
 # Market Project
 
 ## Описание
